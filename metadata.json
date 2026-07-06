@@ -1,0 +1,6 @@
+{
+  "name": "Tesfa Academy Registration",
+  "description": "Online student registration and fee payment verification portal for Tesfa Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
